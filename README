@@ -21,6 +21,7 @@ $ npm install sub-vn
 | getWardsByDistrictCode(districtCode) | Lấy danh sách phường/ xã theo mã huyện |
 | getWardsByProvinceCode(provinceCode) | Lấy danh sách phường/ xã theo tỉnh |
 
+
 ### The MIT License (MIT)
 
 Copyright (c) <2019> Tran Quoc Cuong
