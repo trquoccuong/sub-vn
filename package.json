@@ -1,6 +1,6 @@
 {
   "name": "sub-vn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vietnam Provinces, Cities, Districts, Wards",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,17 @@
   "license": "MIT",
   "dependencies": {
     "xlsx": "^0.15.1"
+  },
+  "keywords": [
+    "vietnam provinces",
+    "vietnam cities",
+    "vietnam districts",
+    "vietnam wards",
+    "tỉnh", "huyện", "quận", "xã", "phường"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trquoccuong/sub-vn.git"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
