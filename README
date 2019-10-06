@@ -1,7 +1,8 @@
 # Đơn vị hành chính Việt Nam
+
 Tìm kiếm và lấy dữ liệu hành chính Việt Nam
 
-> Lấy cảm hứng từ thư viện https://github.com/madnh/hanhchinhvn. Được tạo để sử dụng với Nodejs.
+> Lấy cảm hứng từ thư viện https://github.com/madnh/hanhchinhvn. Được tạo để sử dụng với Nodejs. Dữ liệu được lấy từ https://www.gso.gov.vn/dmhc2015/ (Cập nhật 06/10/2019)
 
 ## Cài đặt
 
