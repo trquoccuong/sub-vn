@@ -1,0 +1,19 @@
+{
+  "name": "sub-vn",
+  "version": "0.0.1",
+  "description": "Vietnam Provinces, Cities, Districts, Wards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node ./generate"
+  },
+  "author": "Tran Quoc Cuong <trquoccuong@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.15.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb": "^18.0.1"
+  }
+}
